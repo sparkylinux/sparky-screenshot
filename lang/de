@@ -2,15 +2,15 @@
 # Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/09
 # Under the GNU GPL v2
 # Last update 2018/08/04 by pavroo
-# German Translation by lunatic
+# German Translation by lunatic (aktualisiert 03.06.2025)
 LOCAL1="Name"
 LOCAL2="Beschreibung"
 LOCAL3="Beenden"
 LOCAL4="Bildschirmfoto"
-LOCAL5="Bitte wählen Sie eine Option:"
-LOCAL6="Jetzt ein Bildschirmfofo aufnehmen"
-LOCAL7="Ein Bildschirmfofo verzögert nach 10 Sekunden aufnehmen..."
-LOCAL8="Aufnahmebereich auswählen"
+LOCAL5="Bitte wählen Sie eine Option aus:"
+LOCAL6="Jetzt ein Bildschirmfofo anfertigen"
+LOCAL7="Ein Bildschirmfofo in 10 Sekunden anfertigen ..."
+LOCAL8="Ausgewählter Bereich"
 ### .desktop file to be translated too
-# Name[de_DE]=Bildschirmfofo
+# Name[de_DE]=Bildschirmfofo (Screenshot)
 # Comment[de_DE]=Ein Bildschirmfoto aufnehmen
